@@ -1,2 +1,3 @@
 # scottboehmer.github.io
-GitHub Pages site
+
+My GitHub pages user site.
